@@ -1,16 +1,40 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**calvinqlinhub/calvinqlinhub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="assets/profile.jpg" width="140" style="border-radius:50%; border:1px solid #ddd;" />
 
-Here are some ideas to get you started:
+# Edu Poveda
+### Junior Full-Stack Developer · Backend focused
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+
+---
+
+### About me
+I’m a junior full-stack developer, focused on backend development with Python and Django.  
+Currently building solid foundations through real projects and continuous learning.
+
+---
+
+### Tech stack (in progress)
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,django,js,html,css,git,github" />
+</div>
+
+---
+
+### What you’ll find here
+- Learning projects with Django  
+- Backend-focused experiments  
+- Clean, evolving code (real progress, no fluff)
+
+---
+
+### Goal
+Landing my first opportunity as a **junior developer** and growing in a professional environment.
+
+---
+
+### Contact
+- 📧 edu.poveda81@gmail.com  
+- 🌐 https://www.vitaltechformacion.com
