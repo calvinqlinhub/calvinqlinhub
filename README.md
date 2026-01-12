@@ -1,35 +1,35 @@
-<!-- =========================
-     EDU POVEDA · PROFILE README
-     Repo: calvinqlinhub/calvinqlinhub
-========================== -->
-
 <div align="center">
 
-<!-- Header wave (colorful) -->
-<img
-  src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,50:7c3aed,100:22c55e&height=170&section=header&text=Edu%20Poveda&fontSize=48&fontColor=ffffff&animation=twinkling&fontAlignY=35"
-/>
+<!-- Top header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:7c3aed&height=155&section=header&text=Edu%20Poveda&fontSize=46&fontColor=ffffff&animation=twinkling&fontAlignY=35" />
 
-<!-- Animated headline -->
-<img
-  src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=18&pause=900&color=FFFFFF&center=true&vCenter=true&width=700&lines=Backend+Developer+%C2%B7+Freelancer;Reliable+APIs+%E2%80%A2+Clean+systems+%E2%80%A2+Real+value;Simple+solutions%2C+clear+communication"
-/>
-
-<br/><br/>
-
-<!-- Avatar (with optional programmer frame) -->
-<!-- If you create assets/avatar_frame.svg (code below), it will look "bestial". If not, it will fallback to your normal photo. -->
-<p>
-  <img
-    src="assets/avatar_frame.svg"
-    width="190"
-    alt="Edu Poveda"
-    onerror="this.onerror=null;this.src='assets/profile.jpg';"
-  />
+<!-- “Freelance” tagline with typographic contrast -->
+<p style="margin: 8px 0 0;">
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=18&pause=900&color=FFFFFF&center=true&vCenter=true&width=780&lines=Freelance+Backend+Developer;I+help+teams+ship+backend+features+fast+and+safely;Clean+APIs+%E2%80%A2+Reliable+delivery+%E2%80%A2+Clear+communication" />
 </p>
 
-<!-- Buttons -->
-<p>
+<!-- “Coder vibe” around the photo (simple + clean) -->
+<p style="margin: 14px 0 6px; font-size: 18px; letter-spacing: .6px;">
+  <span>⌁</span> <span>💻</span> <span>&nbsp;{&nbsp;}&nbsp;</span> <span>⚙️</span> <span>⌁</span>
+</p>
+
+<!-- Photo -->
+<img src="assets/profile.jpg" width="172" alt="Edu Poveda"
+style="border-radius:50%; border:4px solid rgba(124,58,237,.55); box-shadow: 0 14px 34px rgba(0,0,0,.35);" />
+
+<!-- Name + role (clean typography) -->
+<h2 style="margin: 14px 0 6px; font-family: Inter, system-ui, -apple-system, Segoe UI, Roboto; letter-spacing: .3px;">
+  Edu Poveda
+</h2>
+
+<p style="margin: 0; font-size: 15px; line-height: 1.55; max-width: 760px;">
+  <b>Freelance Backend Developer</b> · Python/Django<br/>
+  I build <b>stable backends</b> and <b>clean APIs</b> for startups and teams who want
+  <i>fast delivery</i> without sacrificing reliability.
+</p>
+
+<!-- CTA buttons -->
+<p style="margin-top: 14px;">
   <a href="mailto:edu.poveda81@gmail.com">
     <img src="https://img.shields.io/badge/Email-7c3aed?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
@@ -41,11 +41,11 @@
   </a>
 </p>
 
-<!-- Mini highlight pills -->
+<!-- Value badges (freelance-oriented) -->
 <p>
-  <img src="https://img.shields.io/badge/Focus-Reliability-0b1220?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Style-Clean%20%26%20Simple-0b1220?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Work-Long--term%20friendly-0b1220?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Available%20for%20projects-22c55e?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Timezone-Europe%20%2F%20Remote-0b1220?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Style-Clear%20updates%20%26%20steady%20delivery-0b1220?style=for-the-badge" />
 </p>
 
 </div>
@@ -54,31 +54,60 @@
 
 <div align="center">
 
+### 💼 What I do for clients
+
+</div>
+
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🧩 What I do
-<div style="background:linear-gradient(135deg,#0ea5e9,#7c3aed); border-radius:16px; padding:14px; color:#0b1220;">
-<b>Backends that don’t break.</b><br/><br/>
-✅ Clean, reliable APIs<br/>
-✅ Product features that are easy to maintain<br/>
-✅ Integrations (payments, email, third-party services)<br/>
-✅ Fixes, improvements & ongoing support<br/>
-</div>
+#### ✅ Build & ship
+- Backend features that are **easy to maintain**
+- **Clean APIs** for web & mobile apps
+- Integrations with third-party tools (payments, email, etc.)
 
 </td>
 <td width="50%" valign="top">
 
-### 🤝 What you get
-<div style="background:linear-gradient(135deg,#22c55e,#eab308); border-radius:16px; padding:14px; color:#0b1220;">
-<b>Calm delivery.</b><br/><br/>
-🧠 Business-first thinking<br/>
-📦 Small, frequent updates<br/>
-🧼 Simple docs you’ll actually use<br/>
-💬 Clear communication, no surprises<br/>
+#### 🧯 Improve & stabilize
+- Fix bugs and edge cases
+- Make existing code **more reliable**
+- Reduce tech debt with safe refactors
+
+</td>
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+### 🧭 How working with me looks like
+
 </div>
 
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="33%">
+  <div style="background:#0b1220;border:1px solid #1f2937;border-radius:16px;padding:14px;">
+    <b>1) Quick kickoff</b><br/>
+    Goal, scope, timeline.
+  </div>
+</td>
+<td align="center" width="33%">
+  <div style="background:#0b1220;border:1px solid #1f2937;border-radius:16px;padding:14px;">
+    <b>2) Small deliveries</b><br/>
+    Visible progress fast.
+  </div>
+</td>
+<td align="center" width="33%">
+  <div style="background:#0b1220;border:1px solid #1f2937;border-radius:16px;padding:14px;">
+    <b>3) Clean handoff</b><br/>
+    Simple docs + next steps.
+  </div>
 </td>
 </tr>
 </table>
@@ -89,40 +118,11 @@
 
 <div align="center">
 
-### ✨ Tools I use (simple list)
+### 🧰 Tools (simple)
+
 <img src="https://skillicons.dev/icons?i=python,django,fastapi,postgres,docker,git,github" />
 <br/>
-<sub>Mostly Python + modern backend tooling.</sub>
-
-</div>
-
----
-
-<div align="center">
-
-### ⚡ Quick way to start
-<table>
-<tr>
-<td width="33%" align="center">
-  <div style="background:#0b1220;border:1px solid #1f2937;border-radius:16px;padding:14px;">
-    <b>1) Tell me the goal</b><br/>
-    What should the system achieve?
-  </div>
-</td>
-<td width="33%" align="center">
-  <div style="background:#0b1220;border:1px solid #1f2937;border-radius:16px;padding:14px;">
-    <b>2) I propose a plan</b><br/>
-    Clear scope & milestones.
-  </div>
-</td>
-<td width="33%" align="center">
-  <div style="background:#0b1220;border:1px solid #1f2937;border-radius:16px;padding:14px;">
-    <b>3) You see progress</b><br/>
-    Small deliveries, steady results.
-  </div>
-</td>
-</tr>
-</table>
+<sub>Python-focused backend work.</sub>
 
 </div>
 
@@ -135,14 +135,17 @@
 
 <div align="center">
 
-<img
-  src="https://capsule-render.vercel.app/api?type=rect&color=0:0ea5e9,50:7c3aed,100:22c55e&height=18&section=header"
-/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0ea5e9,100:7c3aed&height=16&section=header" />
 
-### Hola, soy **Edu Poveda** 👋
-Construyo **backends fiables** y **APIs limpias** para productos que tienen que funcionar *siempre*.
+<h3 style="margin: 10px 0 6px; letter-spacing:.2px;">Edu Poveda</h3>
 
-<p>
+<p style="margin: 0; line-height: 1.55; max-width: 760px;">
+  <b>Backend Developer Freelance</b> · Python/Django<br/>
+  Ayudo a equipos y startups a entregar funcionalidades backend <b>rápido y seguro</b>,
+  con APIs limpias y sistemas estables.
+</p>
+
+<p style="margin-top: 12px;">
   <a href="mailto:edu.poveda81@gmail.com">
     <img src="https://img.shields.io/badge/Email-7c3aed?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
@@ -154,106 +157,71 @@ Construyo **backends fiables** y **APIs limpias** para productos que tienen que 
   </a>
 </p>
 
+<p>
+  <img src="https://img.shields.io/badge/Disponible%20para%20proyectos-22c55e?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Remoto-Europa-0b1220?style=for-the-badge" />
+</p>
+
 </div>
 
 ---
 
-### 🧩 Qué hago
-<div style="background:linear-gradient(135deg,#0ea5e9,#7c3aed); border-radius:16px; padding:14px; color:#0b1220;">
-<b>Backends que no se rompen.</b><br/><br/>
-✅ APIs claras y fiables<br/>
-✅ Funcionalidades fáciles de mantener<br/>
-✅ Integraciones (pagos, email, servicios externos)<br/>
-✅ Arreglos, mejoras y soporte continuo<br/>
-</div>
+### 💼 En qué ayudo
 
-<br/>
+<table>
+<tr>
+<td width="50%" valign="top">
 
-### 🤝 Qué puedes esperar
-<div style="background:linear-gradient(135deg,#22c55e,#eab308); border-radius:16px; padding:14px; color:#0b1220;">
-<b>Entrega tranquila.</b><br/><br/>
-🧠 Enfocado a producto y valor real<br/>
-📦 Avances pequeños y frecuentes<br/>
-🧼 Documentación simple y útil<br/>
-💬 Comunicación clara, sin sorpresas<br/>
+#### ✅ Construir y entregar
+- Funcionalidades backend **fáciles de mantener**
+- **APIs claras** para web y móvil
+- Integraciones con servicios externos (pagos, email, etc.)
+
+</td>
+<td width="50%" valign="top">
+
+#### 🧯 Mejorar y estabilizar
+- Corregir bugs y casos límite
+- Hacer el código **más fiable**
+- Reducir deuda técnica con refactors seguros
+
+</td>
+</tr>
+</table>
+
+---
+
+### 🧭 Cómo es trabajar conmigo
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="33%">
+  <div style="background:#0b1220;border:1px solid #1f2937;border-radius:16px;padding:14px;">
+    <b>1) Kickoff rápido</b><br/>
+    Objetivo, alcance, tiempos.
+  </div>
+</td>
+<td align="center" width="33%">
+  <div style="background:#0b1220;border:1px solid #1f2937;border-radius:16px;padding:14px;">
+    <b>2) Entregas pequeñas</b><br/>
+    Progreso visible pronto.
+  </div>
+</td>
+<td align="center" width="33%">
+  <div style="background:#0b1220;border:1px solid #1f2937;border-radius:16px;padding:14px;">
+    <b>3) Entrega limpia</b><br/>
+    Docs simples + siguiente paso.
+  </div>
+</td>
+</tr>
+</table>
+
 </div>
 
 </details>
 
 <div align="center">
-  <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,50:0ea5e9,100:22c55e&height=120&section=footer"
-  />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,100:0ea5e9&height=120&section=footer" />
 </div>
-
----
-
-<!-- =========================
-     OPTIONAL: "PROGRAMMER FRAME"
-     Create this file in: assets/avatar_frame.svg
-     (If you don't, the README will show assets/profile.jpg instead)
-========================== -->
-
-<!--
-Save the following as assets/avatar_frame.svg
-
-NOTE: It references assets/profile.jpg. Keep both in /assets.
-If GitHub ever blocks it, just use the normal photo.
-
---- avatar_frame.svg ---
-<svg xmlns="http://www.w3.org/2000/svg" width="220" height="220" viewBox="0 0 220 220">
-  <defs>
-    <radialGradient id="glow" cx="50%" cy="50%" r="60%">
-      <stop offset="0%" stop-color="#7c3aed" stop-opacity="0.55"/>
-      <stop offset="55%" stop-color="#0ea5e9" stop-opacity="0.25"/>
-      <stop offset="100%" stop-color="#22c55e" stop-opacity="0"/>
-    </radialGradient>
-
-    <linearGradient id="ring" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0%" stop-color="#0ea5e9"/>
-      <stop offset="55%" stop-color="#7c3aed"/>
-      <stop offset="100%" stop-color="#22c55e"/>
-    </linearGradient>
-
-    <filter id="softShadow" x="-30%" y="-30%" width="160%" height="160%">
-      <feDropShadow dx="0" dy="10" stdDeviation="10" flood-color="#000" flood-opacity="0.35"/>
-    </filter>
-
-    <clipPath id="avatarClip">
-      <circle cx="110" cy="110" r="72"/>
-    </clipPath>
-  </defs>
-
-  <!-- Glow background -->
-  <circle cx="110" cy="110" r="106" fill="url(#glow)"/>
-
-  <!-- Outer neon ring -->
-  <circle cx="110" cy="110" r="92" fill="none" stroke="url(#ring)" stroke-width="6" filter="url(#softShadow)"/>
-
-  <!-- Circuit ticks -->
-  <g stroke="#9ca3af" stroke-opacity="0.65" stroke-width="2" stroke-linecap="round">
-    <path d="M110 12 v14"/>
-    <path d="M110 194 v14"/>
-    <path d="M12 110 h14"/>
-    <path d="M194 110 h14"/>
-    <path d="M40 40 l10 10"/>
-    <path d="M180 40 l-10 10"/>
-    <path d="M40 180 l10 -10"/>
-    <path d="M180 180 l-10 -10"/>
-  </g>
-
-  <!-- Little code icons -->
-  <g fill="#e5e7eb" fill-opacity="0.95">
-    <path d="M44 110 l-10 -8 v16 z"/>
-    <path d="M176 110 l10 -8 v16 z"/>
-    <path d="M102 176 l6 2 10 -34 -6 -2 z"/>
-  </g>
-
-  <!-- Avatar image -->
-  <image href="profile.jpg" x="38" y="38" width="144" height="144" clip-path="url(#avatarClip)" preserveAspectRatio="xMidYMid slice"/>
-
-  <!-- Inner border -->
-  <circle cx="110" cy="110" r="72" fill="none" stroke="#ffffff" stroke-opacity="0.18" stroke-width="3"/>
-</svg>
---- end ---
--->
